@@ -115,7 +115,7 @@
                         className: "flex items-center gap-4 md:gap-6",
                         children: [
                           (0, s.jsx)(d(), {
-                            href: "https://t.me/tapzi_official",
+                            href: "https://t.me/tapzibnb",
                             target: "_blank",
                             className: "hover:text-primary-green",
                             children: (0, s.jsx)(m.hZ, {
@@ -123,7 +123,7 @@
                             }),
                           }),
                           (0, s.jsx)(d(), {
-                            href: "https://x.com/Official_Tapzi",
+                            href: "https://x.com/tapzibnb",
                             target: "_blank",
                             className: "hover:text-primary-green",
                             children: (0, s.jsx)(m.Fi, {

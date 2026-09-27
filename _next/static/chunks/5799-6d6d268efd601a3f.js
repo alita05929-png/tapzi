@@ -449,7 +449,7 @@
           (0, l.jsxs)(l.Fragment, {
             children: [
               (0, l.jsx)(r(), {
-                href: "https://t.me/tapzi_official",
+                href: "https://t.me/tapzibnb",
                 target: "_blank",
                 className: "hover:text-primary-green",
                 children: (0, l.jsx)(j.hZ, {
@@ -457,7 +457,7 @@
                 }),
               }),
               (0, l.jsx)(r(), {
-                href: "https://x.com/Official_Tapzi",
+                href: "https://x.com/tapzibnb",
                 target: "_blank",
                 className: "hover:text-primary-green",
                 children: (0, l.jsx)(j.Fi, {
