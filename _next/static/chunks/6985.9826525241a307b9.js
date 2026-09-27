@@ -504,17 +504,17 @@
                     }),
                     (0, n.jsx)("span", { children: "Contract : " }),
                     (0, n.jsx)("a", {
-                      href: "https://bscscan.com/token/0xcomingsoon#code",
+                      href: "https://bscscan.com/token/0xeebade5a8b53f95766c110a8d8420db8bcb7c071#code",
                       className:
                         "text-blue-500 hover:text-blue-600 hover:underline",
                       children: (0, o.O)(
-                        "0xcomingsoon"
+                        "0xeebade5a8b53f95766c110a8d8420db8bcb7c071"
                       ),
                     }),
                     (0, n.jsx)(j.$, {
                       disabled: e,
                       onClick: () =>
-                        t("0xcomingsoon"),
+                        t("0xeebade5a8b53f95766c110a8d8420db8bcb7c071"),
                       size: "icon",
                       variant: "ghost",
                       className: "h-5 w-5",

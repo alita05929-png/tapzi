@@ -1278,7 +1278,7 @@
               children: (0, a.jsxs)("iframe", {
                 className: "relative w-full",
                 style: {height: 700},
-                src: "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoon&inputCurrency=BNB",
+                src: "https://pancakeswap.finance/swap?outputCurrency=0xeebade5a8b53f95766c110a8d8420db8bcb7c071&inputCurrency=BNB",
               }),
             }),
           ],

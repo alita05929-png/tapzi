@@ -441,7 +441,7 @@
       var f = a(30285),
         w = a(24357),
         j = a(82974);
-      let b = "0xcomingsoon";
+      let b = "0xeebade5a8b53f95766c110a8d8420db8bcb7c071";
       var y = a(27719),
         L = a(66766),
         z = a(10549);
@@ -478,9 +478,9 @@
                     },
                     {
                       text: "DexTools",
-                      url: "https://dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
+                      url: "https://dextools.io/app/en/ether/pair-explorer/0xeebade5a8b53f95766c110a8d8420db8bcb7c071",
                     },
-                    { text: "Dexscreener", url: "https://dexscreener.com/ethereum/0xcomingsoon" },
+                    { text: "Dexscreener", url: "https://dexscreener.com/ethereum/0xeebade5a8b53f95766c110a8d8420db8bcb7c071" },
                   ],
                 },
                 {
@@ -489,7 +489,7 @@
                     { text: "FAQ", url: "/#faq" },
                     {
                       text: "Pancakeswap",
-                      url: "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoon&inputCurrency=BNB",
+                      url: "https://pancakeswap.finance/swap?outputCurrency=0xeebade5a8b53f95766c110a8d8420db8bcb7c071&inputCurrency=BNB",
                     },
                   ],
                 },
